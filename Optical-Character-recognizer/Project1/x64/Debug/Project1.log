@@ -1,0 +1,156 @@
+﻿  Blob.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\header.h(13): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\blob.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+  Compiling...
+  Utility.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\header.h(13): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\utility.cpp(30): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\utility.cpp(31): warning C4018: '<': signed/unsigned mismatch
+  Templates.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\header.h(13): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(20): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(21): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(25): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(59): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(60): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(71): warning C4018: '>=': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(72): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(80): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(81): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(90): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(99): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(100): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(109): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(110): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(120): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(129): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(154): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(307): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(309): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(357): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(359): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(414): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(416): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(469): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(471): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(525): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(527): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(580): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(582): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(635): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(637): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(689): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(691): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(744): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(746): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(799): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(801): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(854): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(856): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(909): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(911): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(964): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(966): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1019): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1021): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1074): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1076): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1129): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1131): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1184): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1186): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1239): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1241): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1294): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1296): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1349): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1351): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1404): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1406): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1459): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1461): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1514): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1516): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1570): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1572): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1625): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1627): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1680): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\templates.cpp(1682): warning C4244: '=': conversion from 'float' to 'unsigned __int64', possible loss of data
+  Source.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\header.h(13): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+  Labeler.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\header.h(13): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(6): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(7): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(51): warning C4305: '=': truncation from 'int' to 'float'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(55): warning C4244: 'argument': conversion from 'unsigned __int64' to 'int', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(96): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(97): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(100): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(101): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(104): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(105): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(183): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(185): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(186): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(297): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(298): warning C4018: '<=': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(313): warning C4018: '<=': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(314): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(346): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(347): warning C4018: '<=': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(362): warning C4018: '<=': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(363): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(396): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(397): warning C4018: '<=': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(412): warning C4018: '<=': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(413): warning C4018: '<': signed/unsigned mismatch
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(431): warning C4305: '=': truncation from 'int' to 'float'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(434): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(435): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\labeler.cpp(436): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  EHD.cpp
+c:\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\opencv\build\include\opencv2\core\utility.hpp : warning C4819: The file contains a character that cannot be represented in the current code page (936). Save the file in Unicode format to prevent data loss
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\header.h(13): warning C4005: 'INFINITY': macro redefinition
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\math.h(78): note: see previous definition of 'INFINITY'
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\ehd.cpp(7): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+c:\users\john\desktop\cmpt 414\term project\ocr\optical-character-recognizer\project1\ehd.cpp(10): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Project1.vcxproj -> C:\Users\John\Desktop\CMPT 414\Term project\OCR\Optical-Character-recognizer\x64\Debug\OCR.exe
+  Project1.vcxproj -> C:\Users\John\Desktop\CMPT 414\Term project\OCR\Optical-Character-recognizer\x64\Debug\OCR.pdb (Partial PDB)
