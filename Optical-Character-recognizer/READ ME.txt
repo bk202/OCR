@@ -1,0 +1,50 @@
+1.How to use the program
+To run or compile the program would require Opencv 3.0. Download Opencv 3.0 at https://sourceforge.net/projects/opencvlibrary/files/opencv-win/3.0.0/.
+After extracting the library, go to project configuration and set include directories to the location of Opencv.
+
+There are 5 test images included in the folder(Test_image, Test_image2, ... , Test_image5).
+To exmaine the output of each test image, go to Source.cpp line 115 to change the name of input image path.
+Modify the distance threshold for blob detection of each input image.
+To modify distance threshold:
+- go to Header.h
+- modify the value of the two macro variables: _Distance_TH_H and _Distance_TH_L
+
+the distance threshold for each input images are:
+Test_image:
+TH_H:20
+TH_L:10
+
+Test_image2:
+TH_H: 10
+TH_L: 4
+
+Test_image3:
+TH_H: 10
+TH_L: 3
+
+Test_image4:
+TH_H: 14
+TH_L: 2
+
+
+Test_image5:
+TH_H: 15
+TH_L: 10
+
+After running the program, window will pop up to confirm the blobs are correctly labelled. Close the window and
+wait for program to process.
+
+2.Codes to look at:
+
+EHD construction:
+Examine the class BaseTemplate in Template.cpp
+in the cosntructor of BaseTemplate, EHD and the bounding box method are constructed.
+
+The class TemplateSet is a class of sample characters.
+
+Blob detection:
+class Labeler contains methods for blob detection.
+
+classification:
+The Match() method in class Labeler is responsible for classifying the character of each input blob.
+The function scanLine() in class Labeler is the implementation of scan line method.
